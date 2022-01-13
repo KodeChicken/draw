@@ -1,15 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T08:03:02.118Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Gd8b0xYYWxClBO8tRY5G" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T08:29:08.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="MJZtjl44qFZHcwf9aUwJ" version="16.2.6" type="github">
   <diagram id="RUQsFnbUJq-Mqz2fyxsd" name="Page-1">
-    <mxGraphModel dx="1944" dy="1780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2391" dy="2025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eBv0B-di4ZEDUPEKcxFU-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBv0B-di4ZEDUPEKcxFU-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="655" y="-251" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eBv0B-di4ZEDUPEKcxFU-46" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-10" width="430" height="590" as="geometry" />
+        </mxCell>
         <mxCell id="eBv0B-di4ZEDUPEKcxFU-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.452;entryY=0.942;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eBv0B-di4ZEDUPEKcxFU-38" target="eBv0B-di4ZEDUPEKcxFU-39">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="-100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eBv0B-di4ZEDUPEKcxFU-38" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="eBv0B-di4ZEDUPEKcxFU-38" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="210" y="90" width="210" height="320" as="geometry" />
         </mxCell>
         <mxCell id="eBv0B-di4ZEDUPEKcxFU-5" value="async" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CdNG3Kp7nSvcDPpL_KvK-7" target="eBv0B-di4ZEDUPEKcxFU-3">
@@ -119,6 +127,9 @@
         </mxCell>
         <mxCell id="eBv0B-di4ZEDUPEKcxFU-39" value="通道中建立线程池，&lt;br&gt;异步执行策略任务" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="-250" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="eBv0B-di4ZEDUPEKcxFU-47" value="1.预处理字节数据，封装成POJO&lt;br&gt;2.信号解调&lt;br&gt;3.调用算法库解析相关数据&lt;br&gt;4.获取足够的信号强度数据进行POA定位" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="-450" width="290" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
