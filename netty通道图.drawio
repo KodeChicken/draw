@@ -1,50 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T07:20:46.199Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="_GHMi54roWCIDcBzC7YQ" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T07:38:00.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="AchS7Wy_N4kH58JuM23c" version="16.2.6" type="github">
   <diagram id="RUQsFnbUJq-Mqz2fyxsd" name="Page-1">
-    <mxGraphModel dx="2249" dy="1885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1944" dy="1780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eBv0B-di4ZEDUPEKcxFU-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CdNG3Kp7nSvcDPpL_KvK-7" target="eBv0B-di4ZEDUPEKcxFU-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CdNG3Kp7nSvcDPpL_KvK-7" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="370" y="-10" width="60" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="CdNG3Kp7nSvcDPpL_KvK-8" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;align=center;" parent="1" vertex="1">
-          <mxGeometry x="370" y="80" width="60" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="CdNG3Kp7nSvcDPpL_KvK-9" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="370" y="170" width="60" height="330" as="geometry" />
+          <mxGeometry x="275" y="85" width="60" height="140" as="geometry" />
         </mxCell>
         <mxCell id="CdNG3Kp7nSvcDPpL_KvK-12" value="创建通道" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CdNG3Kp7nSvcDPpL_KvK-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="235" y="155" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CdNG3Kp7nSvcDPpL_KvK-13" value="创建通道" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="CdNG3Kp7nSvcDPpL_KvK-10" target="CdNG3Kp7nSvcDPpL_KvK-8" edge="1">
+        <mxCell id="CdNG3Kp7nSvcDPpL_KvK-13" value="创建通道" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="CdNG3Kp7nSvcDPpL_KvK-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="245" as="targetPoint" />
+            <mxPoint x="235" y="245.00000000000023" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CdNG3Kp7nSvcDPpL_KvK-14" value="创建通道" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="CdNG3Kp7nSvcDPpL_KvK-10" target="CdNG3Kp7nSvcDPpL_KvK-9" edge="1">
+        <mxCell id="CdNG3Kp7nSvcDPpL_KvK-14" value="创建通道" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="CdNG3Kp7nSvcDPpL_KvK-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eBv0B-di4ZEDUPEKcxFU-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CdNG3Kp7nSvcDPpL_KvK-10" target="eBv0B-di4ZEDUPEKcxFU-8">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CdNG3Kp7nSvcDPpL_KvK-16" value="管理通道元数据信息(crud)&lt;br&gt;1.任务id&lt;br&gt;2.设备id&lt;br&gt;3.通道id&lt;br&gt;4.通道类型&lt;br&gt;5.任务类型(单频、频段、信号分析)" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="CdNG3Kp7nSvcDPpL_KvK-10" target="CdNG3Kp7nSvcDPpL_KvK-15" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="120" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="CdNG3Kp7nSvcDPpL_KvK-10" value="Dispatcher" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="40" y="205" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CdNG3Kp7nSvcDPpL_KvK-15" value="Holder" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="40" y="-70" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OfpSlJqw6SoaU7qYj6EQ-3" value="任务开启&lt;br&gt;策略下发&lt;br&gt;任务结束" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OfpSlJqw6SoaU7qYj6EQ-1" target="CdNG3Kp7nSvcDPpL_KvK-10">
+        <mxCell id="OfpSlJqw6SoaU7qYj6EQ-3" value="任务开启&lt;br&gt;策略下发&lt;br&gt;任务结束" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OfpSlJqw6SoaU7qYj6EQ-1" target="CdNG3Kp7nSvcDPpL_KvK-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OfpSlJqw6SoaU7qYj6EQ-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="OfpSlJqw6SoaU7qYj6EQ-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-200" y="215" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OfpSlJqw6SoaU7qYj6EQ-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="710" y="205" width="80" height="80" as="geometry" />
+        <mxCell id="eBv0B-di4ZEDUPEKcxFU-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBv0B-di4ZEDUPEKcxFU-1" target="eBv0B-di4ZEDUPEKcxFU-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBv0B-di4ZEDUPEKcxFU-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="275" y="175" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="eBv0B-di4ZEDUPEKcxFU-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBv0B-di4ZEDUPEKcxFU-2" target="eBv0B-di4ZEDUPEKcxFU-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBv0B-di4ZEDUPEKcxFU-2" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="275" y="260" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="eBv0B-di4ZEDUPEKcxFU-3" value="Parser" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="450" y="205" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eBv0B-di4ZEDUPEKcxFU-8" value="&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;管理通道元数据信息(crud)&lt;/span&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;1.任务id&lt;/span&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;2.设备id&lt;/span&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;3.通道&lt;/span&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;4.通道id&lt;/span&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;5.通道类型&lt;/span&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;6.任务类型(单频、频段、信号分析)&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="-170" width="290" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
