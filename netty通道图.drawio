@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T02:48:47.049Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="zYzadxvJww0SFCIeCzIz" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-17T08:42:32.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="1u65T8PjNCMvTmacakfe" version="16.2.6" type="github">
   <diagram id="RUQsFnbUJq-Mqz2fyxsd" name="Page-1">
-    <mxGraphModel dx="1944" dy="1780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3061" dy="2392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,14 +44,14 @@
         <mxCell id="eBv0B-di4ZEDUPEKcxFU-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CdNG3Kp7nSvcDPpL_KvK-10" target="eBv0B-di4ZEDUPEKcxFU-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CdNG3Kp7nSvcDPpL_KvK-10" value="Dispatcher" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="CdNG3Kp7nSvcDPpL_KvK-10" value="Manager" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="40" y="205" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OfpSlJqw6SoaU7qYj6EQ-3" value="任务开启&lt;br&gt;策略下发&lt;br&gt;任务结束" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OfpSlJqw6SoaU7qYj6EQ-1" target="CdNG3Kp7nSvcDPpL_KvK-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OfpSlJqw6SoaU7qYj6EQ-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-200" y="215" width="30" height="60" as="geometry" />
+          <mxGeometry x="-300" y="215" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBv0B-di4ZEDUPEKcxFU-10" value="async" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eBv0B-di4ZEDUPEKcxFU-1" target="eBv0B-di4ZEDUPEKcxFU-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -163,6 +163,14 @@
         </mxCell>
         <mxCell id="ZszwFvxXXQUjUls2H86l-23" value="Map&amp;lt;Long," style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-440" y="800" width="170" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ZszwFvxXXQUjUls2H86l-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZszwFvxXXQUjUls2H86l-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-115" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZszwFvxXXQUjUls2H86l-24" value="指令对象：XXXRequest&lt;br&gt;&lt;br&gt;eg：FIXFQRequest&lt;br&gt;还有常量字符串指令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="324" width="130" height="86" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
